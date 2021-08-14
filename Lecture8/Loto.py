@@ -93,10 +93,3 @@ class Card:
         self.random_card = []
 
 game = Game()
-
-# check_list = ['a', 'b', 'c', 1]
-# for character in check_list:
-#     if isinstance(character, int):
-#         print(True)
-#     else:
-#         print(False)
